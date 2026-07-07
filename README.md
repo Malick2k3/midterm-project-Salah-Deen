@@ -1,4 +1,4 @@
-# Daust Pro
+# Salah and Deen
 
 Daust Pro is a React Native and Expo mobile app built around a few daily Islamic utilities in one place: prayer times, Qibla direction, Tasbih, Quran browsing, and the Islamic calendar.
 
