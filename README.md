@@ -1,6 +1,6 @@
 # Salah and Deen
 
-Daust Pro is a React Native and Expo mobile app built around a few daily Islamic utilities in one place: prayer times, Qibla direction, Tasbih, Quran browsing, and the Islamic calendar.
+Salah and Deen is a React Native and Expo mobile app built around a few daily Islamic utilities in one place: prayer times, Qibla direction, Tasbih, Quran browsing, and the Islamic calendar.
 
 The app is designed to stay useful even when the network is unreliable. Prayer times are loaded with a cached-first flow, manual city selection is supported when location access is not available, and the Qibla feature falls back safely when device sensors are limited.
 
